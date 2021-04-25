@@ -1,4 +1,4 @@
-# Deployede Neighborly App with Azure Functions
+# Deployed Neighborly App with Azure Functions
 
 All links available only for project submission.
 
